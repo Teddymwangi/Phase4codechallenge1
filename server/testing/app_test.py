@@ -1,5 +1,5 @@
 from faker import Faker
-from app import app
+from server.app import app
 from models import db, Hero, Power, HeroPower
 
 
